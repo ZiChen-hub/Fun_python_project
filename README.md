@@ -1,2 +1,2 @@
-# Translator
-A GUI translator based on python
+# Fun_python_project
+Some fun python project channels
